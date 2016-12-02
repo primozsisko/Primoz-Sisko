@@ -1,2 +1,3 @@
 [1. datoteke so bile najprej v added unstaged category, potem sem premaknil v staged, od kod sem nove datoteke commital]
-[2. datoteke so bile najprej v modified unstaged category, potem sem premaknil v staged, od kod sem posodobljene datoteke commital]
+[2. datoteka je bila najprej v modified unstaged category, potem sem premaknil v staged, od kod sem posodobljeno datoteko commital]
+[3. datoteka je bila najprej v deleted unstaged category, potem sem premaknil v staged, od kod sem posodobljeno datoteko commital]
