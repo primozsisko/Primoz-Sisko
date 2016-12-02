@@ -1,0 +1,1 @@
+[1. datoteke so bile najprej v added unstaged category, potem sem premaknil v staged, od kod sem nove datoteke commital]
